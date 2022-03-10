@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mike-1394
 - 👀 I’m interested in getting enough sleep.
-- 🌱 I’m currently learning Mongoose ODM
+- 🌱 I’m currently learning ...
 - 📫 How to reach me ... I'd prefer you didn't!
